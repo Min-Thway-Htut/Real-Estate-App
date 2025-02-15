@@ -1,4 +1,11 @@
-# Byte-compiled / optimized / DLL files
+.vscode
+.idea
+.coverage*
+.DS_Store
+staticfiles
+mediafiles
+client/node_modules
+
 __pycache__/
 *.py[cod]
 *$py.class
