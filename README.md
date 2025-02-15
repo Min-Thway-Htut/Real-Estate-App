@@ -1,4 +1,5 @@
 # Real Estate Application
 
 ## Tech-stack 
-- Django 
+- Django
+- PostgresQL
