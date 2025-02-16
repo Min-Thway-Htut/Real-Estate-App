@@ -2,4 +2,4 @@
 
 ## Tech-stack 
 - Django
-- PostgresQL
+- PostgreSQL
