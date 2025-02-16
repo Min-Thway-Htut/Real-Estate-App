@@ -1,5 +1,5 @@
 # Real Estate Application
-# Project Overview
+## Project Overview
 ## Tech-stack 
 - Django
 - PostgreSQL
